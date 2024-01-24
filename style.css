@@ -1,0 +1,17 @@
+
+a{
+    text-decoration: none;
+    color: #666;
+}
+a:hover {
+    color: #387ed1;
+}
+
+.gyana{
+    color: #eee; ;cursor: pointer;padding-left: 30px;background-color:#387ed1;border-radius: 3px;
+padding-top: 10px;padding-bottom: 10px;padding-right: 30px; font-weight: 500;font-size: 25;
+}
+
+.gyana:hover{
+    background-color: black;
+}
